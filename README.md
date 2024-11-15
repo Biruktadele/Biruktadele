@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! I’m Biruk Tadele, a competitive programmer from Ethiopia with a passion for solving complex problems and enhancing my algorithmic skills.<br><br>🔭 I’m currently working on advancing my competitive programming skills through regular practice and competitions</h2>
+<h2 align="left">Hi 👋! I’m Biruk Tadele, a competitive programmer from Ethiopia with a passion for solving complex problems and enhancing my algorithmic skills.<br><br></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=biruktadele&label=Profile%20views&color=0e75b6&style=flat" alt="biruktadele" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biruktadele" alt="biruktadele" /></a> </p>
+ <h2 align="left"> 🔭 I’m currently working on advancing my competitive programming skills through regular practice and competitions</h2>
 
 ###
 
