@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on advancing my competitive programming skills through regular practice and competitions<br>
+🔭 **Competitive Programming Enthusiast** practicing daily on [LeetCode](https://leetcode.com/BirukTadele/) & [Codeforces](https://codeforces.com/profile/BirukTadele)<br>
+🌱 Mastering **Dynamic Programming & Graph Algorithms**<br>
 
 
 ## 🌐 Socials:
@@ -11,6 +12,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=Biruktadele&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Biruktadele&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Biruktadele&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 🔥 LeetCode Progress
+[![LeetCode Stats](https://leetcard.jacoblin.cool/BirukTadele?theme=dark&font=Karma)](https://leetcode.com/BirukTadele)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Biruktadele&theme=radical&no-frame=true&no-bg=true&margin-w=4)
