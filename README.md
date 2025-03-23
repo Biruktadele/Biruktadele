@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 **Competitive Programming Enthusiast** practicing daily on [LeetCode](https://leetcode.com/BirukTadele/) & [Codeforces](https://codeforces.com/profile/BirukTadele)<br>
-🌱 Mastering **Dynamic Programming & Graph Algorithms**<br>
+🌱 Mastering **Data Structures and Algorithm **<br>
 
 
 ## 🌐 Socials:
