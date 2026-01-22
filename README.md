@@ -9,10 +9,10 @@
 ---
 
 ### 💫 About Me
-- 🔭 **Expertise:** Building scalable software and solving complex algorithmic challenges.
+- 🔭 **Expertise:** Building scalable software, mobile apps, and high-performance backends.
 - 🛡️ **Cybersecurity:** Focused on penetration testing and security research.
+- 🧠 **AI & Data:** Working with Machine Learning models and data analysis.
 - 🏆 **Daily Practice:** [LeetCode](https://leetcode.com/BirukTadele/) & [Codeforces](https://codeforces.com/profile/BirukTadele)
-- 💬 **Ask me about:** C++, Python, Django, and Network Security.
 
 <p align="left">
 <a href="https://linkedin.com/in/biruk-tadele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biruk-tadele" height="30" width="40" /></a>
@@ -22,12 +22,18 @@
 ---
 
 ### 💻 Tech Stack & Tools
-**Engineering & Web:**
+
+**Languages & Frameworks:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,java,js,django,postgres,mysql,apache,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,go,java,dart,js,flutter,django,fastapi,html,css" />
 </p>
 
-**Security & DevOp:**
+**Data Science & AI:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pandas,postgres,mysql" />
+</p>
+
+**Security & DevOps:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,aws,git,vscode" />
 </p>
@@ -47,7 +53,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biruktadele&theme=radical&bg_color=0D1117&hide_border=true&area=true" width="100%" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Biruktadele&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 <p align="center">
