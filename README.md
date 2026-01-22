@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FE&width=435&lines=Competitive+Programming+Enthusiast;Mastering+Data+Structures+%26+Algorithms;Full+Stack+Django+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Software+Engineer;Competitive+Programmer;Penetration+Tester" alt="Typing SVG" />
 </p>
 
 ---
 
-
 ### 💫 About Me
-- 🔭 **Practicing daily on:** [LeetCode](https://leetcode.com/BirukTadele/) & [Codeforces](https://codeforces.com/profile/BirukTadele)
-- 🌱 **Currently learning:** Advanced Graph Theory & System Design
-- 💬 **Ask me about:** C++, Python, and why I love competitive programming!
+- 🔭 **Expertise:** Building scalable software and solving complex algorithmic challenges.
+- 🛡️ **Cybersecurity:** Focused on penetration testing and security research.
+- 🏆 **Daily Practice:** [LeetCode](https://leetcode.com/BirukTadele/) & [Codeforces](https://codeforces.com/profile/BirukTadele)
+- 💬 **Ask me about:** C++, Python, Django, and Network Security.
 
 <p align="left">
 <a href="https://linkedin.com/in/biruk-tadele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biruk-tadele" height="30" width="40" /></a>
@@ -21,27 +21,40 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Tools
+**Engineering & Web:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,java,js,html,css,django,postgres,mysql,apache,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,java,js,django,postgres,mysql,apache,html,css" />
+</p>
+
+**Security & DevOp:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,aws,git,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biruktadele&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Biruk's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Biruktadele&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Biruktadele&theme=radical&border_radius=10" width="48%" />
 </p>
-
-
 
 ---
 
-### 🏆 Achievements
-
+### 🏆 Activity & Achievements
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biruktadele&theme=radical&bg_color=0D1117&hide_border=true&area=true" width="100%" />
 </p>
 
----
 
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/BirukTadele?theme=dark&font=Karma" width="400px" />
+</p>
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Biruktadele&icon=5&color=12" />
+</p>
