@@ -3,15 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Software+Engineer;Competitive+Programmer;Penetration+Tester" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Software+Engineer+%7C+Mobile+Developer;Backend+Architect+%26+DevOps;CTF+Player+%7C+Penetration+Tester" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me
-- 🔭 **Expertise:** Building scalable software, mobile apps, and high-performance backends.
-- 🛡️ **Cybersecurity:** Focused on penetration testing and security research.
-- 🧠 **AI & Data:** Working with Machine Learning models and data analysis.
+- 🔭 **Development:** specialized in **Full Stack** web and **Cross-Platform Mobile** (Flutter) development.
+- 🧱 **Architecture:** I build with **Clean Architecture**, using state management like **BLoC, Riverpod, & Provider**.
+- ☁️ **Infrastructure:** Experienced with **AWS, Docker, CI/CD**, and modern deployments like **Render & Railway**.
+- 🛡️ **Cybersecurity:** Active **CTF Player** focused on Web Exploitation, Binary Exploitation, and Reverse Engineering.
 - 🏆 **Daily Practice:** [LeetCode](https://leetcode.com/BirukTadele/) & [Codeforces](https://codeforces.com/profile/BirukTadele)
 
 <p align="left">
@@ -21,21 +22,36 @@
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 Tech Stack & Arsenal
 
-**Languages & Frameworks:**
+#### 📱 Frontend & Mobile Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,go,java,dart,js,flutter,django,fastapi,html,css" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,vue,nuxtjs,angular,svelte,redux,ts,js,html,css,tailwind" />
 </p>
 
-**Data Science & AI:**
+#### ⚙️ Backend, Database & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pandas,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,express,go,java,postgres,mysql,mongodb,redis,firebase,supabase,aws,azure,gcp" /><br>
+  <!-- Custom Badges for tools without SkillIcons -->
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
-**Security & DevOps:**
+#### 🚀 DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,aws,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,jenkins,githubactions,gitlab,git,vim,vscode" />
+</p>
+
+#### 🕵️ CTF & Security Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kali,c,cpp,assembly" /> <br>
+  <img src="https://img.shields.io/badge/Burp%20Suite-E87023?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=red" />
+  <img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Owasp_Zap-5A9CDE?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
 
 ---
